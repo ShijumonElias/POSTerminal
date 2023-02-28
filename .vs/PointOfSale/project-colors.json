@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "03b54eca-6183-4ae6-9d5b-3bfc0b8a6bee": {
+      "ProjectGuid": "03b54eca-6183-4ae6-9d5b-3bfc0b8a6bee",
+      "DisplayName": "PointOfSaleTerminal",
+      "ColorIndex": 0
+    },
+    "7ab4cda0-5bec-4101-b64d-83545ee2f86d": {
+      "ProjectGuid": "7ab4cda0-5bec-4101-b64d-83545ee2f86d",
+      "DisplayName": "TestPOS",
+      "ColorIndex": 1
+    },
+    "717ea9b8-9c2d-4657-923f-371cf4b40b05": {
+      "ProjectGuid": "717ea9b8-9c2d-4657-923f-371cf4b40b05",
+      "DisplayName": "PointOfSaleTerminal.Tests",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,12 @@
+D:\POS\PointOfSale\PointOfSale\bin\Release\net6.0\PointOfSaleTerminal.deps.json
+D:\POS\PointOfSale\PointOfSale\bin\Release\net6.0\PointOfSaleTerminal.dll
+D:\POS\PointOfSale\PointOfSale\bin\Release\net6.0\ref\PointOfSaleTerminal.dll
+D:\POS\PointOfSale\PointOfSale\bin\Release\net6.0\PointOfSaleTerminal.pdb
+D:\POS\PointOfSale\PointOfSale\obj\Release\net6.0\PointOfSaleTerminal.csproj.AssemblyReference.cache
+D:\POS\PointOfSale\PointOfSale\obj\Release\net6.0\PointOfSaleTerminal.GeneratedMSBuildEditorConfig.editorconfig
+D:\POS\PointOfSale\PointOfSale\obj\Release\net6.0\PointOfSaleTerminal.AssemblyInfoInputs.cache
+D:\POS\PointOfSale\PointOfSale\obj\Release\net6.0\PointOfSaleTerminal.AssemblyInfo.cs
+D:\POS\PointOfSale\PointOfSale\obj\Release\net6.0\PointOfSaleTerminal.csproj.CoreCompileInputs.cache
+D:\POS\PointOfSale\PointOfSale\obj\Release\net6.0\PointOfSaleTerminal.dll
+D:\POS\PointOfSale\PointOfSale\obj\Release\net6.0\ref\PointOfSaleTerminal.dll
+D:\POS\PointOfSale\PointOfSale\obj\Release\net6.0\PointOfSaleTerminal.pdb

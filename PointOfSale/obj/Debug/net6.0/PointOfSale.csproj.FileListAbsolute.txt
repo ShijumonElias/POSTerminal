@@ -1,0 +1,11 @@
+D:\POS\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.deps.json
+D:\POS\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.dll
+D:\POS\PointOfSale\PointOfSale\bin\Debug\net6.0\ref\PointOfSale.dll
+D:\POS\PointOfSale\PointOfSale\bin\Debug\net6.0\PointOfSale.pdb
+D:\POS\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.GeneratedMSBuildEditorConfig.editorconfig
+D:\POS\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.AssemblyInfoInputs.cache
+D:\POS\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.AssemblyInfo.cs
+D:\POS\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.csproj.CoreCompileInputs.cache
+D:\POS\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.dll
+D:\POS\PointOfSale\PointOfSale\obj\Debug\net6.0\ref\PointOfSale.dll
+D:\POS\PointOfSale\PointOfSale\obj\Debug\net6.0\PointOfSale.pdb
